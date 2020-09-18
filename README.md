@@ -22,3 +22,7 @@ Then open `kmeans.imp.ipynb` in jupyter notebook.
   ![alt text](https://raw.githubusercontent.com/shamohamin/K-means-algorithm/master/images/data_set.png)
 
 </div>
+
+### output
+
+![alt text](https://raw.githubusercontent.com/shamohamin/K-means-algorithm/master/images/output.png)
