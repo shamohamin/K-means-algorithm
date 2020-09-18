@@ -25,4 +25,4 @@ Then open `kmeans.imp.ipynb` in jupyter notebook.
 
 ### output
 
-![alt text](https://raw.githubusercontent.com/shamohamin/K-means-algorithm/master/images/output.png)
+![alt text](https://raw.githubusercontent.com/shamohamin/K-means-algorithm/master/images/outputs.png)
